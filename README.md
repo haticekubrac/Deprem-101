@@ -1,6 +1,6 @@
 # proje
 başlık -> 
-deprem öncesi, deprem süreci, deprem sonrası kategorileri
+deprem öncesi, deprem süreci, deprem sonrası kategorileri <hr>
 
 *deprem öncesi*
 <ol>
@@ -9,11 +9,11 @@ deprem öncesi, deprem süreci, deprem sonrası kategorileri
  <li>dayanıklılık bilgilendirmesi</li>
  <li>deprem çantası listesi</li>
  <li>faydalı uygulamalar</li>
-</ol>
+</ol> <hr>
 
 *deprem süreci*
 <ul>
-<li>afet haritası</li>
+<li>afet haritası</li> <br>
 
 <li>depremzede</li>
 <ol>
@@ -23,7 +23,7 @@ deprem öncesi, deprem süreci, deprem sonrası kategorileri
  <li>sağlık servisleri - aktif hastaneler, konteyner eczaneler, veterinerler, açık eczaneler</li>
  <li>mobil tuvaletler</li>
  <li>benzin istasyonları</li>
-</ol>
+</ol> <br>
 
 <li>gönüllüler için</li>
 <ol>
@@ -33,7 +33,7 @@ deprem öncesi, deprem süreci, deprem sonrası kategorileri
  <li>iş makinesi kullanabilen gönüllüler</li>
  <li>bağış - kaynaklara yönlendirme</li>
  <li>dijital yardımlaşma seferberliği</li>
-</ol>
+</ol> <hr>
 
 *deprem sonrası*
 <ol>
