@@ -2,32 +2,42 @@
 başlık -> 
 deprem öncesi, deprem süreci, deprem sonrası kategorileri
 
-deprem öncesi
->bilgilendirme kaynakları
->gönüllü olma
->dayanıklılık bilgilendirmesi
->deprem çantası listesi
+*deprem öncesi*
+<ol>
+ <li>bilgilendirme kaynakları</li>
+ <li>gönüllü olma</li>
+ <li>dayanıklılık bilgilendirmesi</li>
+ <li>deprem çantası listesi</li>
+ <li>faydalı uygulamalar</li>
+</ol>
 
-deprem süreci
+*deprem süreci*
+<ul>
+<li>afet haritası</li>
 
-*afet haritası
-1. depremzede
->enkaz bildirisi
->gıda yardımı
->konaklama yardımı
->sağlık servisleri - aktif hastaneler, konteyner eczaneler, veterinerler, açık eczaneler
->mobil tuvaletler
->benzin istasyonları
+<li>depremzede</li>
+<ol>
+ <li>enkaz bildirisi</li>
+ <li>gıda yardımı</li>
+ <li>konaklama yardımı</li>
+ <li>sağlık servisleri - aktif hastaneler, konteyner eczaneler, veterinerler, açık eczaneler</li>
+ <li>mobil tuvaletler</li>
+ <li>benzin istasyonları</li>
+</ol>
 
-2. gönüllüler için
->konaklama sağlama
->ulaşım sağlama
->yardım merkezleri
->iş makinesi kullanabilen gönüllüler
->bağış - kaynaklara yönlendirme
->dijital yardımlaşma seferberliği
+<li>gönüllüler için</li>
+<ol>
+ <li>konaklama sağlama</li>
+ <li>ulaşım sağlama</li>
+ <li>yardım merkezleri</li>
+ <li>iş makinesi kullanabilen gönüllüler</li>
+ <li>bağış - kaynaklara yönlendirme</li>
+ <li>dijital yardımlaşma seferberliği</li>
+</ol>
 
-deprem sonrası
->psikolojik destek
->öğrenci bursları
->çocuklar için oyuncak sağlama
+*deprem sonrası*
+<ol>
+ <li>psikolojik destek</li>
+ <li>öğrenci bursları</li>
+ <li>çocuklar için oyuncak sağlama</li>
+</ol>
