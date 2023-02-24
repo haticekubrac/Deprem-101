@@ -1,0 +1,75 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+header {
+    /* Header'in gradiant rengi */
+    background-color: #967E76;
+    width: 100%;
+    height: 100px;
+    display: flex;
+  }
+
+
+/* Header tagı içinde açılmış her p tagı için*/
+header > p {
+    margin-top: 60px;
+    margin-left: 100px;
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* sağa sabitler */
+  header > nav {
+    margin-left: auto;
+    margin-right: 200px;
+    margin-top: auto;
+    margin-bottom: 0px;
+    float: right;
+  }
+  
+  /* sağ'da açılan alanı flexbox yapar */
+  header > nav > ul {
+    display: flex;
+    float: right;
+    justify-content: flex-end;
+  }
+  
+  /* her flexbox etiketi için */
+  header > nav > ul > li {
+    margin-left: auto;
+    margin-right: 0;
+    list-style-type: none;
+  }
+
+/* FOOTER */
+
+footer {
+    margin-bottom: 0;
+    margin-top: auto;
+    width: 100%;
+    height: 200px;
+    background-color: #967E76;
+    display: flex;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: [footer-height];
+  }
+  
+  footer > ul {
+    margin-left: 50px;
+    margin-top: 35px;
+    list-style-type: none;
+  }
+  
+  footer > ul > li {
+    color: white;
+  }
+  
+  .content {
+    flex: 1 0 auto;
+  }
