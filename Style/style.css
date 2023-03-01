@@ -132,6 +132,11 @@ header > nav > ul > li > a {
   margin-right: 100px ;
 }
 
+.content2 > ol{
+  margin-left: 100px ;
+  margin-right: 100px ;
+}
+
 .content2 > iframe {
   margin-left: 100px ;
   margin-right: 100px ;
