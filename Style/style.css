@@ -152,6 +152,37 @@ header > nav > ul > li > a {
   margin-right: 100px ;
 }
 
+.content2 > a {
+  margin-left: 100px ;
+  margin-right: 100px ;
+}
+
+.link-content2 > a {
+  text-decoration: none;
+  color: #874C62;
+}
+
+.button2 {
+  color: #000000;
+  outline: 0;
+  border: 2px solid currentcolor;
+  transition: 0.3s ease all;
+  background-color: transparent;
+  font-size: 35px;
+  font-weight: 600;
+  padding: 36px 75px;
+  display: inline-block;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.button2:hover{
+  color: #fff;
+  border-color: transparent;
+  background-color: #874C62;
+}
+
+
 
 .button{
   margin-top: 8%;
