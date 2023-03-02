@@ -155,6 +155,13 @@ header > nav > ul > li > a {
 .content2 > a {
   margin-left: 100px ;
   margin-right: 100px ;
+  text-decoration: none;
+  color: #874C62;
+}
+
+.content2 > a:hover {
+  color: #fff;
+  text-decoration: none;
 }
 
 .link-content2 > a {
