@@ -235,3 +235,13 @@ footer {
   footer > ul > li {
     color: rgb(255, 255, 255);
   }
+
+
+  .cards{display:flex;align-items:center;margin-bottom:20px;gap:10px;flex-direction:column;margin:20px;}
+  @media screen and (min-width:768px){.cards{flex-direction:row;margin:0}}.cards 
+  .card{background:#d1b9b9;padding:20px;border-radius:20px;width:100%;text-decoration:none;flex:1 1 100%;transition:all .3s ease;max-width:475px}.cards 
+  .card:hover{box-shadow:0 5px 30px rgba(206, 125, 153, 0.5)}.cards 
+  .card-img{position:relative;margin-bottom:10px}.cards 
+  .card-img::before{display:block;content:'';width:100%;padding-top:50.17%}.cards 
+  .card-img img{position:absolute;top:0;left:0;width:100%;height:auto}.cards 
+  .card-title{font-size:1.25rem;font-weight:700;color:#232a5c}
