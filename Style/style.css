@@ -4,11 +4,12 @@ html {
   }
 
 body {
-  margin:0;
+  margin: 0;
+  padding: 0;
 }
 
-/* hakkımızda da fln çalışıyor ama deprem süreci kısımlarında çalışmıyor(?) */
-a:hover{color:#e5b5b5;}
+/* üstüne gelinen linklerin rengini değiştiriyor */
+a:hover{color:#e4a1a1;}
 
 /* HEADER */
 
@@ -188,8 +189,6 @@ header > nav > ul > li > a {
   border-color: transparent;
   background-color: #874C62;
 }
-
-
 
 .button{
   margin-top: 8%;
