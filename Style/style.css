@@ -9,6 +9,9 @@ body {
 }
 
 /* üstüne gelinen linklerin rengini değiştiriyor */
+a{color:#874C62;
+text-decoration: none;}
+
 a:hover{color:#e4a1a1;}
 
 /* HEADER */
@@ -69,7 +72,7 @@ header > nav > ul > li > a {
 /* CONTENT */
 
 .content {
-  height: 521px;
+  height:615px;
   width: 100%;
   left: 0%;
   right: 0%;
