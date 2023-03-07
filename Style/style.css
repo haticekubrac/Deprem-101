@@ -223,6 +223,17 @@ header > nav > ul > li > a {
   background-color: #874C62;
 }
 
+.iletisim{
+  height:620px;
+  width: 100%;
+  left: 0%;
+  right: 0%;
+  text-align: center; 
+  font-size: larger;
+  background-color: #cfcfcf;
+  flex: 1 0 auto;
+}
+
 /* FOOTER */
 
 footer {
