@@ -9,10 +9,10 @@ body {
 }
 
 /* üstüne gelinen linklerin rengini değiştiriyor */
-a{color:#874C62;
+a {color:#874C62;
 text-decoration: none;}
 
-a:hover{color:#e4a1a1;}
+a:hover {color:#e4a1a1;}
 
 /* HEADER */
 
