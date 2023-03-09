@@ -268,3 +268,23 @@ footer {
   .card-img::before{display:block;content:'';width:100%;padding-top:50.17%}.cards 
   .card-img img{position:absolute;top:0;left:0;width:100%;height:auto}.cards 
   .card-title{font-size:1.25rem;font-weight:700;color:#232a5c}
+
+  .cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+}
+
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #000;
+    transition: width .3s;
+}
+
+.cool-link:hover::after {
+    width: 100%;
+    //transition: width .3s;
+}
