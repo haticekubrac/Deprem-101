@@ -16,7 +16,7 @@
 
 ***
 
-![Anasayfa](proje/gorsel/anasayfa-ss.png)
+![Anasayfa](gorsel/anasayfa-ss.png)
 
 ***
 
