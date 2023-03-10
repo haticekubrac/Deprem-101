@@ -1,43 +1,52 @@
-# proje
-başlık -> 
-deprem öncesi, deprem süreci, deprem sonrası kategorileri <hr>
+# Deprem 101
 
-*deprem öncesi*
-<ol>
- <li>bilgilendirme kaynakları</li>
- <li>gönüllü olma</li>
- <li>dayanıklılık bilgilendirmesi</li>
- <li>deprem çantası listesi</li>
- <li>faydalı uygulamalar</li>
-</ol> <hr>
+## Özet
+>Deprem 101; insanların deprem konusunda her türlü içeriğe tek bir kaynaktan ulaşabilmesi için tasarlanmış bir platformdur. İçerikler deprem öncesi, süreci ve sonrası olarak üçe ayrılmıştır. Size uygun olan bilgiye en hızlı şekilde ulaşabilmeniz hedeflenmiştir.
 
-*deprem süreci*
-<ul>
-<li>afet haritası</li> <br>
+## Problem
+>Deprem konusundaki kaynakların internette dağınık bir şekilde yer alması ve gerektiğinde bulmanın zor olması. Ayrıca internette güvenilir olmayan kaynakların da bulunması. 
 
-<li>depremzede</li>
-<ol>
- <li>enkaz bildirisi</li>
- <li>gıda yardımı</li>
- <li>konaklama yardımı</li>
- <li>sağlık servisleri - aktif hastaneler, konteyner eczaneler, veterinerler, açık eczaneler</li>
- <li>mobil tuvaletler</li>
- <li>benzin istasyonları</li>
-</ol> <br>
+## Amaç
+>* İnsanların deprem gerçekleşmeden önce gerekli önlemleri almasını sağlamak.
+>* Deprem sürecinde depremzede ve gönüllülerin ihtiyacı olacak bilgilere ve sitelere ulaşmasını kolaylaştırmak.
+>* Deprem sonrasında yaralarımızı hep beraber kapamak.
 
-<li>gönüllüler için</li>
-<ol>
- <li>konaklama sağlama</li>
- <li>ulaşım sağlama</li>
- <li>yardım merkezleri</li>
- <li>iş makinesi kullanabilen gönüllüler</li>
- <li>bağış - kaynaklara yönlendirme</li>
- <li>dijital yardımlaşma seferberliği</li>
-</ol> <hr>
+## Hedef Kitle
+>Deprem gerçekleşmeden önce bilgilenmek isteyenler, deprem sürecinde depremzede ve gönüllüler, deprem sonrası desteğe ihtiyacı olan ve destekte bulunmak isteyenler.
 
-*deprem sonrası*
-<ol>
- <li>psikolojik destek</li>
- <li>öğrenci bursları</li>
- <li>çocuklar için oyuncak sağlama</li>
-</ol>
+***
+
+![Anasayfa](proje/gorsel/anasayfa-ss.png)
+
+***
+
+## Deprem Öncesi
+- Bilgilendirme Kaynakları
+- Deprem Çantası
+- Bina Dayanıklılık Testi
+- Gönüllü Olma
+
+***
+
+## Deprem Süreci
+- Depremzedeler için
+  - Enkaz Bildirimi
+  - Konaklama Yardımı
+  - Mobil Tuvaletler
+  - Sağlık Servisleri
+  
+&nbsp;
+
+- Gönüllüler için
+  - Bağış Yapma
+  - Dijital Yardımlaşma
+  - Konaklama Sağlama
+  - Yardım Merkezleri
+
+  ***
+
+## Deprem Sonrası
+- Psikolojik Destek
+- Öğrenci Bursları
+- Oyuncak ve Kitap Toplama
+- Hayvan Dostlarımıza Yardım
