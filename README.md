@@ -53,4 +53,4 @@
 
 ***
 
-*** Bu proje; Hatice Kübra Çiçek ve Zeynep Sena Pehlivan tarafından, deprem bilincini arttırmak, deprem süreci ve sonrasında gerekli yardımlaşmayı sağlamak amacıyla Şubat 2023'te hayata geçirilmiştir. ***
+***Bu proje; Hatice Kübra Çiçek ve Zeynep Sena Pehlivan tarafından, deprem bilincini arttırmak, deprem süreci ve sonrasında gerekli yardımlaşmayı sağlamak amacıyla Şubat 2023'te hayata geçirilmiştir.***
